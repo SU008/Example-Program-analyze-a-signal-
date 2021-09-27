@@ -1,4 +1,4 @@
-# Simple-Program-analyze-signal-characteristics
+# Simple-Program-to-highest-signal-amplitude-from-a-file
 
 
 
