@@ -1,4 +1,4 @@
-# Simple-Program-to-highest-signal-amplitude-from-a-file
+# Simple-Program-to-find-highest-signal-amplitude-from-a-file
 
 
 
